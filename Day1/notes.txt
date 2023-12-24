@@ -1,0 +1,5 @@
+Homework
+1)CrossOrigin
+2)Emmet
+3)Cdn
+4)Async and Defer
