@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<div id="container">
+     <h1>heading 1</h1>
+     <h2>heading 2</h2>
+</div>
+<body>
+    <div id="root">
+      <h2>gyuft57ydcrt</h2>
+    </div>
+    <h1>hahs</h1> 
+</body>
+
+<!-- <Script>
+   let ele= document.createElement("a");
+   ele.innerHTML="chup";
+   document.querySelector("h1").append(ele);
+</Script> -->
+
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+
+<script>
+const heading1=React.createElement("h1",{id:"lalal",className:"twinkle",style:{color:"red",height:"20vh",backgroundColor:"pink"}},"Heading1")
+const heading2=React.createElement("h2",{id:"lalal",className:"twinkl",style:{color:"red",height:"20vh",backgroundColor:"pink"}},"Heading2")
+const root=ReactDOM.createRoot(document.querySelector("#root"))
+const container=React.createElement("div",[],[heading1,heading2])
+
+root.render(container)
+</script>
+
+</html>
