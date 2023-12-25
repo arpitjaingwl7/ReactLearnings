@@ -1,0 +1,22 @@
+{
+  "name": "day-2-igniting",
+  "version": "1.0.0",
+  "description": "lalakla",
+  "main": "Script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arpit",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "browserList":[
+    "last 2 versions"
+  ]
+}

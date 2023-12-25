@@ -1,0 +1,40 @@
+we need to do-
+minify our file
+optimization
+clean console
+bundled 
+
+
+
+-D ==install as dev dependency
+
+carot(^)==>for minor update in dependencies
+Tilde(~)==> for major update in dependencies
+
+
+Q.diff btw json nd jsonlock
+
+parcel do-
+HMR=Hot module Replacement
+File Watcher Algorithm which is written in cpp
+Bundling
+Cleaning our code
+Super Fast build Algorithm
+img optimization
+catching while development
+dompression
+cache
+compatible wid older version of browser
+adds poliphils
+https on dev
+manages port number
+it uses consistent Hashing Algorithm
+
+
+we should put parcel cache in git ignore
+
+*Transitive dependencies
+
+Homework===>Parcel Documentation Read?deb dependencies?
+
+*browserlist package===it makes our code compatible with all browsers and on their old version
